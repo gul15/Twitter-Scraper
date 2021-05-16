@@ -61,9 +61,9 @@ except:
 
 
 #User inputs, login is required for scraping due to Twitter policy
-#user ="utkgl33"
+#user =""
 user = input("Enter username:")
-#my_password = "L8tvB6k7YP.."
+#my_password = ""
 my_password = input("Enter password:")
 #required_number = 1000 # minimum tweet number to collect
 required_number = int(input("Enter required number of tweets:"))
